@@ -8,7 +8,7 @@
     width: 390px;
     border: 1px solid black;
     margin: 1rem auto;
-    background: url(/assets/bg.jpg);
+    background: url(assets/bg.jpg);
     background-size: contain;
     overflow: hidden;
 }
